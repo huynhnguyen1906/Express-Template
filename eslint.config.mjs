@@ -1,6 +1,6 @@
 import eslintPluginPrettier from 'eslint-plugin-prettier';
 import globals from 'globals';
-import eslintPluginTs from '@typescript-eslint/eslint-plugin'; // 👈 ADD LINE
+import eslintPluginTs from '@typescript-eslint/eslint-plugin';
 
 export default [
     {
